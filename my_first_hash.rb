@@ -14,7 +14,7 @@ def shipping_manifest
   the_hash("porcelain vases") = 2
   the_hash("oil paintings") = 3
   the_manifest = the_hash
-  
+
 
 
 end
